@@ -8,8 +8,17 @@ This is a collaborative project by He lab (UMich) and Tao Lab (UTHealth) with a 
 ## Team
 
 He Lab at the University of Michigan:
+- Jie Zheng
+- Jinjing Guo
+- Yuanyi Pan
+- Oliver He 
 
 Tao Lab at UTHealth at Houston:
+- Jianfu Li
+- Fang Li
+- Zenan Sun
+- Yiming Li
 
 ## Related links:
-
+- [Clinicaltrials.gov: http](https://clinicaltrials.gov/)https://clinicaltrials.gov/
+- 
